@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WB_SS13_Bai tap Product disconut calculator:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/WB_SS13_Bai_tap_Product_disconut_calculator_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="WB_SS13_Bai tap Product disconut calculator/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WB_SS13_Bai tap Product disconut calculator" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
